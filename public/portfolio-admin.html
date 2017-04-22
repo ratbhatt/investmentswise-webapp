@@ -15,8 +15,6 @@
 	<link rel="stylesheet" href="stylesheets/animate.css" type="text/css" />
 	<link rel="stylesheet" href="stylesheets/magnific-popup.css" type="text/css" />
 
-	<!-- Bootstrap Data Table Plugin -->
-	<link rel="stylesheet" href="stylesheets/components/bs-datatable.css" type="text/css" />
 
 	<link rel="stylesheet" href="stylesheets/responsive.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -104,16 +102,7 @@
 					<div class="table-responsive">
 
 						<table id="datatable1" class="table table-striped table-bordered" cellspacing="0" width="100%">
-							<thead>
-			            <tr>
-			                <th>Company</th>
-			                <th>Quantity</th>
-			                <th>Book Value</th>
-			                <th>Market Value</th>
-			                <th>Total Gain</th>
-			                <th>Comments</th>
-			            </tr>
-			        </thead>
+
 			        <!-- <tfoot>
 			            <tr>
 			                <th>Name</th>
@@ -126,7 +115,11 @@
 			        </tfoot> -->
 			    </table>
 
-
+					<div>
+						<button type='button' class='btn btn-default' id='saveButton' value='Save'>Save</button>
+						<button type='button' class='btn btn-default' id='cancelButton' value='Cancel' disabled='true'>Cancel</button>
+						<span id='messages'>&nbsp;</span>
+					</div>
 					</div>
 
 				</div>
@@ -217,9 +210,10 @@
 
 	<!-- Bootstrap Data Table Plugin -->
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-2.5.0/pdfmake-0.1.18/dt-1.10.13/af-2.1.3/b-1.2.4/b-colvis-1.2.4/b-flash-1.2.4/b-html5-1.2.4/b-print-1.2.4/cr-1.3.2/fc-3.2.2/fh-3.1.2/kt-2.2.0/r-2.1.1/rg-1.0.0/rr-1.2.0/sc-1.4.2/se-1.2.0/datatables.min.css"/>
-
+	<link rel="stylesheet" href="https://cdn.datatables.net/select/1.1.2/css/select.dataTables.min.css"/>
 	<script type="text/javascript" src="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-2.5.0/pdfmake-0.1.18/dt-1.10.13/af-2.1.3/b-1.2.4/b-colvis-1.2.4/b-flash-1.2.4/b-html5-1.2.4/b-print-1.2.4/cr-1.3.2/fc-3.2.2/fh-3.1.2/kt-2.2.0/r-2.1.1/rg-1.0.0/rr-1.2.0/sc-1.4.2/se-1.2.0/datatables.min.js"></script>
-
+	<script src="https://cdn.datatables.net/select/1.1.2/js/dataTables.select.min.js"></script>
+	<script src="javascripts/components/dataTables.altEditor.free.js"></script>
 
 
 	<!-- Footer Scripts
@@ -227,29 +221,90 @@
 	<script type="text/javascript" src="javascripts/functions.js"></script>
 
 	<script>
+
+
 	$(document).ready(function() {
+
+	//Example of column definitions.
+		var columnDefs = [{
+		    id: "DT_RowId",
+		    data: "id",
+		    "visible": false,
+		    "searchable": false
+		  },{
+		      title: "Company",
+		      id: "company",
+		      data: "company",
+		      type: "text",
+
+		    }, {
+		      title: "Entry Price",
+		      id: "entryPrice",
+		      data: "entryPrice",
+		      type: "text",
+		    }, {
+		      title: "Current price",
+		      id: "currentPrice",
+		      data: "currentPrice",
+		      type: "text",
+
+		    }, {
+		      title: "Quantity",
+		      id: "quantity",
+		      data: "quantity",
+		      type: "text"
+		    }, {
+		      title: "Entry Date",
+		      id: "entryDate",
+		      data: "entryDate",
+		      type: "text"
+		    },
+				{
+		      title: "Google Finance URL",
+		      id: "googleFinanceURI",
+		      data: "googleFinanceURI",
+		      type: "text"
+		    }
+			];
+
+
 	    $('#datatable1').DataTable( {
-				processing: true,
-		    serverSide: true,
+				serverSide: true,
+				select: 'single',     // enable single row selection
+		    responsive: true,     // enable responsiveness
+		    altEditor: true,      // Enable altEditor ****
 		    "ajax":
 		    {
 		        "url": "http://localhost:8080/portfolio/1/stocks",
 			  },
-				"columns": [
-
-            { "data": "id" },
-            { "data": "company" },
-            { "data": "entryPrice" },
-            { "data": "currentPrice" },
-            { "data": "quantity" },
-            { "data": "entryDate" }
-        ],
+				columns: columnDefs,
 				dom: 'Bfrtip',
-				buttons: [
-				'excel', 'pdf', 'print'
-				]
+				buttons: [{                     //All implemented buttons. Do not change name attribute.
+		            text: 'Create',
+		            name: 'add'
+		          },{
+		            extend: 'selected',
+		            text: 'Edit',
+		            name: 'edit'
+		          },{
+		            extend: 'selected',
+		            text: 'Delete',
+		            name: 'delete'
+		          },{
+		            text: 'Refresh',
+		            name: 'refresh'
+		     }]
 	    } );
 	} );
+
+	// If the user has unsaved changes when reloading/leaving the page, then
+// an alert is displayed asking the user to confirm the action
+	$(window).bind('beforeunload',function(){
+	   if(!$('#cancelButton').is(':disabled')){
+	   return "";
+	    }
+	});
+
 	</script>
 
 </body>

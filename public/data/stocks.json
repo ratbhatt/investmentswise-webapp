@@ -1,460 +1,460 @@
 {
   "data": [
-    [
-      "Tiger Nixon",
-      "System Architect",
-      "Edinburgh",
-      "5421",
-      "2011/04/25",
-      "$320,800"
-    ],
-    [
-      "Garrett Winters",
-      "Accountant",
-      "Tokyo",
-      "8422",
-      "2011/07/25",
-      "$170,750"
-    ],
-    [
-      "Ashton Cox",
-      "Junior Technical Author",
-      "San Francisco",
-      "1562",
-      "2009/01/12",
-      "$86,000"
-    ],
-    [
-      "Cedric Kelly",
-      "Senior Javascript Developer",
-      "Edinburgh",
-      "6224",
-      "2012/03/29",
-      "$433,060"
-    ],
-    [
-      "Airi Satou",
-      "Accountant",
-      "Tokyo",
-      "5407",
-      "2008/11/28",
-      "$162,700"
-    ],
-    [
-      "Brielle Williamson",
-      "Integration Specialist",
-      "New York",
-      "4804",
-      "2012/12/02",
-      "$372,000"
-    ],
-    [
-      "Herrod Chandler",
-      "Sales Assistant",
-      "San Francisco",
-      "9608",
-      "2012/08/06",
-      "$137,500"
-    ],
-    [
-      "Rhona Davidson",
-      "Integration Specialist",
-      "Tokyo",
-      "6200",
-      "2010/10/14",
-      "$327,900"
-    ],
-    [
-      "Colleen Hurst",
-      "Javascript Developer",
-      "San Francisco",
-      "2360",
-      "2009/09/15",
-      "$205,500"
-    ],
-    [
-      "Sonya Frost",
-      "Software Engineer",
-      "Edinburgh",
-      "1667",
-      "2008/12/13",
-      "$103,600"
-    ],
-    [
-      "Jena Gaines",
-      "Office Manager",
-      "London",
-      "3814",
-      "2008/12/19",
-      "$90,560"
-    ],
-    [
-      "Quinn Flynn",
-      "Support Lead",
-      "Edinburgh",
-      "9497",
-      "2013/03/03",
-      "$342,000"
-    ],
-    [
-      "Charde Marshall",
-      "Regional Director",
-      "San Francisco",
-      "6741",
-      "2008/10/16",
-      "$470,600"
-    ],
-    [
-      "Haley Kennedy",
-      "Senior Marketing Designer",
-      "London",
-      "3597",
-      "2012/12/18",
-      "$313,500"
-    ],
-    [
-      "Tatyana Fitzpatrick",
-      "Regional Director",
-      "London",
-      "1965",
-      "2010/03/17",
-      "$385,750"
-    ],
-    [
-      "Michael Silva",
-      "Marketing Designer",
-      "London",
-      "1581",
-      "2012/11/27",
-      "$198,500"
-    ],
-    [
-      "Paul Byrd",
-      "Chief Financial Officer (CFO)",
-      "New York",
-      "3059",
-      "2010/06/09",
-      "$725,000"
-    ],
-    [
-      "Gloria Little",
-      "Systems Administrator",
-      "New York",
-      "1721",
-      "2009/04/10",
-      "$237,500"
-    ],
-    [
-      "Bradley Greer",
-      "Software Engineer",
-      "London",
-      "2558",
-      "2012/10/13",
-      "$132,000"
-    ],
-    [
-      "Dai Rios",
-      "Personnel Lead",
-      "Edinburgh",
-      "2290",
-      "2012/09/26",
-      "$217,500"
-    ],
-    [
-      "Jenette Caldwell",
-      "Development Lead",
-      "New York",
-      "1937",
-      "2011/09/03",
-      "$345,000"
-    ],
-    [
-      "Yuri Berry",
-      "Chief Marketing Officer (CMO)",
-      "New York",
-      "6154",
-      "2009/06/25",
-      "$675,000"
-    ],
-    [
-      "Caesar Vance",
-      "Pre-Sales Support",
-      "New York",
-      "8330",
-      "2011/12/12",
-      "$106,450"
-    ],
-    [
-      "Doris Wilder",
-      "Sales Assistant",
-      "Sidney",
-      "3023",
-      "2010/09/20",
-      "$85,600"
-    ],
-    [
-      "Angelica Ramos",
-      "Chief Executive Officer (CEO)",
-      "London",
-      "5797",
-      "2009/10/09",
-      "$1,200,000"
-    ],
-    [
-      "Gavin Joyce",
-      "Developer",
-      "Edinburgh",
-      "8822",
-      "2010/12/22",
-      "$92,575"
-    ],
-    [
-      "Jennifer Chang",
-      "Regional Director",
-      "Singapore",
-      "9239",
-      "2010/11/14",
-      "$357,650"
-    ],
-    [
-      "Brenden Wagner",
-      "Software Engineer",
-      "San Francisco",
-      "1314",
-      "2011/06/07",
-      "$206,850"
-    ],
-    [
-      "Fiona Green",
-      "Chief Operating Officer (COO)",
-      "San Francisco",
-      "2947",
-      "2010/03/11",
-      "$850,000"
-    ],
-    [
-      "Shou Itou",
-      "Regional Marketing",
-      "Tokyo",
-      "8899",
-      "2011/08/14",
-      "$163,000"
-    ],
-    [
-      "Michelle House",
-      "Integration Specialist",
-      "Sidney",
-      "2769",
-      "2011/06/02",
-      "$95,400"
-    ],
-    [
-      "Suki Burks",
-      "Developer",
-      "London",
-      "6832",
-      "2009/10/22",
-      "$114,500"
-    ],
-    [
-      "Prescott Bartlett",
-      "Technical Author",
-      "London",
-      "3606",
-      "2011/05/07",
-      "$145,000"
-    ],
-    [
-      "Gavin Cortez",
-      "Team Leader",
-      "San Francisco",
-      "2860",
-      "2008/10/26",
-      "$235,500"
-    ],
-    [
-      "Martena Mccray",
-      "Post-Sales support",
-      "Edinburgh",
-      "8240",
-      "2011/03/09",
-      "$324,050"
-    ],
-    [
-      "Unity Butler",
-      "Marketing Designer",
-      "San Francisco",
-      "5384",
-      "2009/12/09",
-      "$85,675"
-    ],
-    [
-      "Howard Hatfield",
-      "Office Manager",
-      "San Francisco",
-      "7031",
-      "2008/12/16",
-      "$164,500"
-    ],
-    [
-      "Hope Fuentes",
-      "Secretary",
-      "San Francisco",
-      "6318",
-      "2010/02/12",
-      "$109,850"
-    ],
-    [
-      "Vivian Harrell",
-      "Financial Controller",
-      "San Francisco",
-      "9422",
-      "2009/02/14",
-      "$452,500"
-    ],
-    [
-      "Timothy Mooney",
-      "Office Manager",
-      "London",
-      "7580",
-      "2008/12/11",
-      "$136,200"
-    ],
-    [
-      "Jackson Bradshaw",
-      "Director",
-      "New York",
-      "1042",
-      "2008/09/26",
-      "$645,750"
-    ],
-    [
-      "Olivia Liang",
-      "Support Engineer",
-      "Singapore",
-      "2120",
-      "2011/02/03",
-      "$234,500"
-    ],
-    [
-      "Bruno Nash",
-      "Software Engineer",
-      "London",
-      "6222",
-      "2011/05/03",
-      "$163,500"
-    ],
-    [
-      "Sakura Yamamoto",
-      "Support Engineer",
-      "Tokyo",
-      "9383",
-      "2009/08/19",
-      "$139,575"
-    ],
-    [
-      "Thor Walton",
-      "Developer",
-      "New York",
-      "8327",
-      "2013/08/11",
-      "$98,540"
-    ],
-    [
-      "Finn Camacho",
-      "Support Engineer",
-      "San Francisco",
-      "2927",
-      "2009/07/07",
-      "$87,500"
-    ],
-    [
-      "Serge Baldwin",
-      "Data Coordinator",
-      "Singapore",
-      "8352",
-      "2012/04/09",
-      "$138,575"
-    ],
-    [
-      "Zenaida Frank",
-      "Software Engineer",
-      "New York",
-      "7439",
-      "2010/01/04",
-      "$125,250"
-    ],
-    [
-      "Zorita Serrano",
-      "Software Engineer",
-      "San Francisco",
-      "4389",
-      "2012/06/01",
-      "$115,000"
-    ],
-    [
-      "Jennifer Acosta",
-      "Junior Javascript Developer",
-      "Edinburgh",
-      "3431",
-      "2013/02/01",
-      "$75,650"
-    ],
-    [
-      "Cara Stevens",
-      "Sales Assistant",
-      "New York",
-      "3990",
-      "2011/12/06",
-      "$145,600"
-    ],
-    [
-      "Hermione Butler",
-      "Regional Director",
-      "London",
-      "1016",
-      "2011/03/21",
-      "$356,250"
-    ],
-    [
-      "Lael Greer",
-      "Systems Administrator",
-      "London",
-      "6733",
-      "2009/02/27",
-      "$103,500"
-    ],
-    [
-      "Jonas Alexander",
-      "Developer",
-      "San Francisco",
-      "8196",
-      "2010/07/14",
-      "$86,500"
-    ],
-    [
-      "Shad Decker",
-      "Regional Director",
-      "Edinburgh",
-      "6373",
-      "2008/11/13",
-      "$183,000"
-    ],
-    [
-      "Michael Bruce",
-      "Javascript Developer",
-      "Singapore",
-      "5384",
-      "2011/06/27",
-      "$183,000"
-    ],
-    [
-      "Donna Snider",
-      "Customer Support",
-      "New York",
-      "4226",
-      "2011/01/25",
-      "$112,000"
-    ]
+    {
+      "company": "Tiger Nixon",
+      "quantity": "System Architect",
+      "book_value": "$320,800",
+      "market_value": "2011/04/25",
+      "total_gains": "Edinburgh",
+      "comments": "5421"
+    },
+    {
+      "company": "Garrett Winters",
+      "quantity": "Accountant",
+      "book_value": "$170,750",
+      "market_value": "2011/07/25",
+      "total_gains": "Tokyo",
+      "comments": "8422"
+    },
+    {
+      "company": "Ashton Cox",
+      "quantity": "Junior Technical Author",
+      "book_value": "$86,000",
+      "market_value": "2009/01/12",
+      "total_gains": "San Francisco",
+      "comments": "1562"
+    },
+    {
+      "company": "Cedric Kelly",
+      "quantity": "Senior Javascript Developer",
+      "book_value": "$433,060",
+      "market_value": "2012/03/29",
+      "total_gains": "Edinburgh",
+      "comments": "6224"
+    },
+    {
+      "company": "Airi Satou",
+      "quantity": "Accountant",
+      "book_value": "$162,700",
+      "market_value": "2008/11/28",
+      "total_gains": "Tokyo",
+      "comments": "5407"
+    },
+    {
+      "company": "Brielle Williamson",
+      "quantity": "Integration Specialist",
+      "book_value": "$372,000",
+      "market_value": "2012/12/02",
+      "total_gains": "New York",
+      "comments": "4804"
+    },
+    {
+      "company": "Herrod Chandler",
+      "quantity": "Sales Assistant",
+      "book_value": "$137,500",
+      "market_value": "2012/08/06",
+      "total_gains": "San Francisco",
+      "comments": "9608"
+    },
+    {
+      "company": "Rhona Davidson",
+      "quantity": "Integration Specialist",
+      "book_value": "$327,900",
+      "market_value": "2010/10/14",
+      "total_gains": "Tokyo",
+      "comments": "6200"
+    },
+    {
+      "company": "Colleen Hurst",
+      "quantity": "Javascript Developer",
+      "book_value": "$205,500",
+      "market_value": "2009/09/15",
+      "total_gains": "San Francisco",
+      "comments": "2360"
+    },
+    {
+      "company": "Sonya Frost",
+      "quantity": "Software Engineer",
+      "book_value": "$103,600",
+      "market_value": "2008/12/13",
+      "total_gains": "Edinburgh",
+      "comments": "1667"
+    },
+    {
+      "company": "Jena Gaines",
+      "quantity": "Office Manager",
+      "book_value": "$90,560",
+      "market_value": "2008/12/19",
+      "total_gains": "London",
+      "comments": "3814"
+    },
+    {
+      "company": "Quinn Flynn",
+      "quantity": "Support Lead",
+      "book_value": "$342,000",
+      "market_value": "2013/03/03",
+      "total_gains": "Edinburgh",
+      "comments": "9497"
+    },
+    {
+      "company": "Charde Marshall",
+      "quantity": "Regional Director",
+      "book_value": "$470,600",
+      "market_value": "2008/10/16",
+      "total_gains": "San Francisco",
+      "comments": "6741"
+    },
+    {
+      "company": "Haley Kennedy",
+      "quantity": "Senior Marketing Designer",
+      "book_value": "$313,500",
+      "market_value": "2012/12/18",
+      "total_gains": "London",
+      "comments": "3597"
+    },
+    {
+      "company": "Tatyana Fitzpatrick",
+      "quantity": "Regional Director",
+      "book_value": "$385,750",
+      "market_value": "2010/03/17",
+      "total_gains": "London",
+      "comments": "1965"
+    },
+    {
+      "company": "Michael Silva",
+      "quantity": "Marketing Designer",
+      "book_value": "$198,500",
+      "market_value": "2012/11/27",
+      "total_gains": "London",
+      "comments": "1581"
+    },
+    {
+      "company": "Paul Byrd",
+      "quantity": "Chief Financial Officer (CFO)",
+      "book_value": "$725,000",
+      "market_value": "2010/06/09",
+      "total_gains": "New York",
+      "comments": "3059"
+    },
+    {
+      "company": "Gloria Little",
+      "quantity": "Systems Administrator",
+      "book_value": "$237,500",
+      "market_value": "2009/04/10",
+      "total_gains": "New York",
+      "comments": "1721"
+    },
+    {
+      "company": "Bradley Greer",
+      "quantity": "Software Engineer",
+      "book_value": "$132,000",
+      "market_value": "2012/10/13",
+      "total_gains": "London",
+      "comments": "2558"
+    },
+    {
+      "company": "Dai Rios",
+      "quantity": "Personnel Lead",
+      "book_value": "$217,500",
+      "market_value": "2012/09/26",
+      "total_gains": "Edinburgh",
+      "comments": "2290"
+    },
+    {
+      "company": "Jenette Caldwell",
+      "quantity": "Development Lead",
+      "book_value": "$345,000",
+      "market_value": "2011/09/03",
+      "total_gains": "New York",
+      "comments": "1937"
+    },
+    {
+      "company": "Yuri Berry",
+      "quantity": "Chief Marketing Officer (CMO)",
+      "book_value": "$675,000",
+      "market_value": "2009/06/25",
+      "total_gains": "New York",
+      "comments": "6154"
+    },
+    {
+      "company": "Caesar Vance",
+      "quantity": "Pre-Sales Support",
+      "book_value": "$106,450",
+      "market_value": "2011/12/12",
+      "total_gains": "New York",
+      "comments": "8330"
+    },
+    {
+      "company": "Doris Wilder",
+      "quantity": "Sales Assistant",
+      "book_value": "$85,600",
+      "market_value": "2010/09/20",
+      "total_gains": "Sidney",
+      "comments": "3023"
+    },
+    {
+      "company": "Angelica Ramos",
+      "quantity": "Chief Executive Officer (CEO)",
+      "book_value": "$1,200,000",
+      "market_value": "2009/10/09",
+      "total_gains": "London",
+      "comments": "5797"
+    },
+    {
+      "company": "Gavin Joyce",
+      "quantity": "Developer",
+      "book_value": "$92,575",
+      "market_value": "2010/12/22",
+      "total_gains": "Edinburgh",
+      "comments": "8822"
+    },
+    {
+      "company": "Jennifer Chang",
+      "quantity": "Regional Director",
+      "book_value": "$357,650",
+      "market_value": "2010/11/14",
+      "total_gains": "Singapore",
+      "comments": "9239"
+    },
+    {
+      "company": "Brenden Wagner",
+      "quantity": "Software Engineer",
+      "book_value": "$206,850",
+      "market_value": "2011/06/07",
+      "total_gains": "San Francisco",
+      "comments": "1314"
+    },
+    {
+      "company": "Fiona Green",
+      "quantity": "Chief Operating Officer (COO)",
+      "book_value": "$850,000",
+      "market_value": "2010/03/11",
+      "total_gains": "San Francisco",
+      "comments": "2947"
+    },
+    {
+      "company": "Shou Itou",
+      "quantity": "Regional Marketing",
+      "book_value": "$163,000",
+      "market_value": "2011/08/14",
+      "total_gains": "Tokyo",
+      "comments": "8899"
+    },
+    {
+      "company": "Michelle House",
+      "quantity": "Integration Specialist",
+      "book_value": "$95,400",
+      "market_value": "2011/06/02",
+      "total_gains": "Sidney",
+      "comments": "2769"
+    },
+    {
+      "company": "Suki Burks",
+      "quantity": "Developer",
+      "book_value": "$114,500",
+      "market_value": "2009/10/22",
+      "total_gains": "London",
+      "comments": "6832"
+    },
+    {
+      "company": "Prescott Bartlett",
+      "quantity": "Technical Author",
+      "book_value": "$145,000",
+      "market_value": "2011/05/07",
+      "total_gains": "London",
+      "comments": "3606"
+    },
+    {
+      "company": "Gavin Cortez",
+      "quantity": "Team Leader",
+      "book_value": "$235,500",
+      "market_value": "2008/10/26",
+      "total_gains": "San Francisco",
+      "comments": "2860"
+    },
+    {
+      "company": "Martena Mccray",
+      "quantity": "Post-Sales support",
+      "book_value": "$324,050",
+      "market_value": "2011/03/09",
+      "total_gains": "Edinburgh",
+      "comments": "8240"
+    },
+    {
+      "company": "Unity Butler",
+      "quantity": "Marketing Designer",
+      "book_value": "$85,675",
+      "market_value": "2009/12/09",
+      "total_gains": "San Francisco",
+      "comments": "5384"
+    },
+    {
+      "company": "Howard Hatfield",
+      "quantity": "Office Manager",
+      "book_value": "$164,500",
+      "market_value": "2008/12/16",
+      "total_gains": "San Francisco",
+      "comments": "7031"
+    },
+    {
+      "company": "Hope Fuentes",
+      "quantity": "Secretary",
+      "book_value": "$109,850",
+      "market_value": "2010/02/12",
+      "total_gains": "San Francisco",
+      "comments": "6318"
+    },
+    {
+      "company": "Vivian Harrell",
+      "quantity": "Financial Controller",
+      "book_value": "$452,500",
+      "market_value": "2009/02/14",
+      "total_gains": "San Francisco",
+      "comments": "9422"
+    },
+    {
+      "company": "Timothy Mooney",
+      "quantity": "Office Manager",
+      "book_value": "$136,200",
+      "market_value": "2008/12/11",
+      "total_gains": "London",
+      "comments": "7580"
+    },
+    {
+      "company": "Jackson Bradshaw",
+      "quantity": "Director",
+      "book_value": "$645,750",
+      "market_value": "2008/09/26",
+      "total_gains": "New York",
+      "comments": "1042"
+    },
+    {
+      "company": "Olivia Liang",
+      "quantity": "Support Engineer",
+      "book_value": "$234,500",
+      "market_value": "2011/02/03",
+      "total_gains": "Singapore",
+      "comments": "2120"
+    },
+    {
+      "company": "Bruno Nash",
+      "quantity": "Software Engineer",
+      "book_value": "$163,500",
+      "market_value": "2011/05/03",
+      "total_gains": "London",
+      "comments": "6222"
+    },
+    {
+      "company": "Sakura Yamamoto",
+      "quantity": "Support Engineer",
+      "book_value": "$139,575",
+      "market_value": "2009/08/19",
+      "total_gains": "Tokyo",
+      "comments": "9383"
+    },
+    {
+      "company": "Thor Walton",
+      "quantity": "Developer",
+      "book_value": "$98,540",
+      "market_value": "2013/08/11",
+      "total_gains": "New York",
+      "comments": "8327"
+    },
+    {
+      "company": "Finn Camacho",
+      "quantity": "Support Engineer",
+      "book_value": "$87,500",
+      "market_value": "2009/07/07",
+      "total_gains": "San Francisco",
+      "comments": "2927"
+    },
+    {
+      "company": "Serge Baldwin",
+      "quantity": "Data Coordinator",
+      "book_value": "$138,575",
+      "market_value": "2012/04/09",
+      "total_gains": "Singapore",
+      "comments": "8352"
+    },
+    {
+      "company": "Zenaida Frank",
+      "quantity": "Software Engineer",
+      "book_value": "$125,250",
+      "market_value": "2010/01/04",
+      "total_gains": "New York",
+      "comments": "7439"
+    },
+    {
+      "company": "Zorita Serrano",
+      "quantity": "Software Engineer",
+      "book_value": "$115,000",
+      "market_value": "2012/06/01",
+      "total_gains": "San Francisco",
+      "comments": "4389"
+    },
+    {
+      "company": "Jennifer Acosta",
+      "quantity": "Junior Javascript Developer",
+      "book_value": "$75,650",
+      "market_value": "2013/02/01",
+      "total_gains": "Edinburgh",
+      "comments": "3431"
+    },
+    {
+      "company": "Cara Stevens",
+      "quantity": "Sales Assistant",
+      "book_value": "$145,600",
+      "market_value": "2011/12/06",
+      "total_gains": "New York",
+      "comments": "3990"
+    },
+    {
+      "company": "Hermione Butler",
+      "quantity": "Regional Director",
+      "book_value": "$356,250",
+      "market_value": "2011/03/21",
+      "total_gains": "London",
+      "comments": "1016"
+    },
+    {
+      "company": "Lael Greer",
+      "quantity": "Systems Administrator",
+      "book_value": "$103,500",
+      "market_value": "2009/02/27",
+      "total_gains": "London",
+      "comments": "6733"
+    },
+    {
+      "company": "Jonas Alexander",
+      "quantity": "Developer",
+      "book_value": "$86,500",
+      "market_value": "2010/07/14",
+      "total_gains": "San Francisco",
+      "comments": "8196"
+    },
+    {
+      "company": "Shad Decker",
+      "quantity": "Regional Director",
+      "book_value": "$183,000",
+      "market_value": "2008/11/13",
+      "total_gains": "Edinburgh",
+      "comments": "6373"
+    },
+    {
+      "company": "Michael Bruce",
+      "quantity": "Javascript Developer",
+      "book_value": "$183,000",
+      "market_value": "2011/06/27",
+      "total_gains": "Singapore",
+      "comments": "5384"
+    },
+    {
+      "company": "Donna Snider",
+      "quantity": "Customer Support",
+      "book_value": "$112,000",
+      "market_value": "2011/01/25",
+      "total_gains": "New York",
+      "comments": "4226"
+    }
   ]
 }
