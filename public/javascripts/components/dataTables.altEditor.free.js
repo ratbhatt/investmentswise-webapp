@@ -741,14 +741,14 @@ return isValid;
 var updateJSON = function(data, tableObj, act){
 
   var dt = tableObj.s.dt;
-  var payload = "{\"data\":[{\"DT_RowId\":1,\"company\":\"CapitalOne Financial\",\"entryPrice\":\"1111\",\"currentPrice\":\"1111\",\"quantity\":\"1111\",\"entryDate\":\"1221122\",\"googleFinanceURI\":\"GOOGLE\"}]}";
+  //var payload = "{\"data\":[{\"DT_RowId\":1,\"company\":\"CapitalOne Financial\",\"entryPrice\":\"1111\",\"currentPrice\":\"1111\",\"quantity\":\"1111\",\"entryDate\":\"1221122\",\"googleFinanceURI\":\"GOOGLE\"}]}";
   var jqxhr =
   $.ajax({
     url: "http://localhost:8080/portfolio/1/stock",
     type : "POST",
     contentType: 'application/json; charset=UTF-8',
     cache: false,
-    data: payload
+    data: JSON.stringify(data)
   })
   .done (function(data) {
 
